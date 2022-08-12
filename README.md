@@ -1,4 +1,4 @@
-# UX-Research-user-testeo
+# UX-Research-user-testeo1
 Mis primeros proyectos utilizando los conocimientos adquiridos sobre UX Research, a modo de afianzar todo el material teórico y práctico obtenido. 
 
 ### En el primer caso estuve pensando como aplicar las herramientas vistas en un proyecto personal que ya está en marcha hace tiempo, sobre Marketing y planificación turistica ("Caleta Conectada"). Con la intención de mejorar el servicio y la experiencia al usuario, e incluso exponer tareas ya realizadas que nos ayudo a concretar nuestros logros como empredimiento, y profesionales: 
