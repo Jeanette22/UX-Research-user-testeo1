@@ -69,12 +69,18 @@ El objetivo de esta entrevista fue mostrar una de las actividades que se realiza
 
 ![LOGROS](https://user-images.githubusercontent.com/80054717/184388834-05a9dcbc-31bf-4e15-8f3b-f0417420f547.png)
 
+
+
 ## CARD SORTING: OPTIMAL WORKSHOP
 
 Realizamos un card sorting para mejorar el diseño web de nuestro sitio, que aún está en proceso de reforma.
 El objetivo era jerarquizar el contenido y saber si las personas lograban encontrar la info que pedimos a simple vista o tenían alguna dificultad.
 
+
+
 ![CARD SORTING](https://user-images.githubusercontent.com/80054717/184389002-da2a6690-db3f-4e38-8a28-a9440b3a6b7c.png)
+
+
 ![concluuuu](https://user-images.githubusercontent.com/80054717/184389280-53c44e0e-94a4-40d1-9152-46e41224d6a2.png)
 
 
